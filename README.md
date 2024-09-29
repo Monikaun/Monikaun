@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 I am Monika Naikal
 
 # 💫 About Me:
 🎓 Data Analyst enthusiast with expertise in SQL, Excel, Power Query, and Tableau.<br><br>
