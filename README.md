@@ -1,7 +1,7 @@
 ## Hi 👋 I am Monika Naikal
 
 # 💫 About Me:
-🎓 Data Analyst enthusiast with expertise in SQL, Excel, Power Query, and Tableau.<br><br>
+🎓 Data Analyst enthusiast with expertise in SQL, Excel, Power BI, and Tableau.<br><br>
 💻 Skilled in Data Cleaning, Data Transformation, Data Visualization, and Exploration.<br><br>
 📊 Passionate about turning raw data into actionable insights for decision-making.<br><br>
 📈 Recently completed projects involving pizza databases using MySQL and Tableau for interactive visualizations.<br><br>
